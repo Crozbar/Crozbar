@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Crozmic
+- 👋 Hi, I’m @Croz
 - 👀 I’m interested in Infosec
 - 🌱 I’m currently learning Networking
 - 💞️ I’m looking to collaborate on ...
