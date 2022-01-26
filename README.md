@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Croz,
 - I want to learn more about computers
 - I’m interested in Infosec and Networking
-- Check out 👀 my beginner CTF profile: https://tryhackme.com/p/Croz
+- Check out 👀 my CTF profile: https://tryhackme.com/p/Croz
